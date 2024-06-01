@@ -1,0 +1,22 @@
+.acerca-de{
+  padding-top: 30px;
+  width: 700px;
+  height: 100px;
+  background-color: aqua;
+  border-radius: 40px;
+  color: white;
+  font-family: "Oswald", sans-serif;
+}
+
+.info {
+  padding-top: 30px;
+  width: 700px;
+  height: 460px;
+  background-color: aqua;
+  border-radius: 40px;
+  color: white;
+}
+
+.row {
+  padding-top: 20px;
+}
